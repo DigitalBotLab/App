@@ -1,0 +1,9 @@
+
+[package]
+    archivePath = "http://d4i3qtqj3r0z5.cloudfront.net/omni.simready.explorer-1.0.26.zip"
+
+    [package.publish]
+        kitVersion = "105.0.0+release.109326.bd6b456a.tc"
+        date = 1687298400
+        buildNumber = "101.1.0+2023.1.1527.751de03b.tc"
+        repoName = "kit-browsers"
